@@ -1,4 +1,4 @@
-# SSHPLUS COM CHECKUSER
+# PLUSVPN COM CHECKUSER
 
 ```apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/eVPNPRO/PLUSVPN/main/Plus && chmod 777 Plus && ./Plus```
 
